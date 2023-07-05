@@ -12,7 +12,7 @@
 # @bot.message_handler(commands=['test'])
 # def start_message(message):
 #     bot.send_message(message.chat.id, 'Привет, я помогу тебе решить, что писать {name of your friend} из {name} ))))) ')
-#     bot.send_message(message.chat.id, 'прислушайся ко мне.. вот, можешь почитать статю про него : {article name} ')
+
 
 
 
