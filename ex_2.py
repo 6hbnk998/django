@@ -1,7 +1,5 @@
 
-from selenium import webdriver
 
-def get_video():
     try:
         driver.get("https://ru.savefrom.net/240/")
         time.sleep(2)
