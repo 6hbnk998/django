@@ -1,7 +1,6 @@
 
 
-    try:
-        driver.get("https://ru.savefrom.net/240/")
+    //ru.savefrom.net/240/")
         time.sleep(2)
         input_savefrom = driver.find_element_by_name("sf_url")
         url = "https://www.instagram.com/reel/CHEeTvzFVPB/"
