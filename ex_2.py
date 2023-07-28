@@ -1,5 +1,4 @@
 
-        input_savefrom = driver.find_element_by_name("sf_url")
         url = "https://www.instagram.com/reel/CHEeTvzFVPB/"
         input_savefrom.send_keys(url)
         driver.find_element_by_id("sf_submit").click()
