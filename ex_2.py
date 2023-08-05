@@ -1,5 +1,4 @@
 
-        driver.find_element_by_id("sf_submit").click()
         print('btn submit click')
         time.sleep(4)
         driver.find_element_by_class_name("def-btn-box").click()
