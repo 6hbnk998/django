@@ -1,5 +1,4 @@
 
-        input_savefrom.send_keys(url)
         driver.find_element_by_id("sf_submit").click()
         print('btn submit click')
         time.sleep(4)
