@@ -6,6 +6,4 @@
         photo_path = glob.glob('/Users/aleksandramirnova/Downloads/*.mp4')
         downloaded_photo = photo_path[-1]
         print(downloaded_photo)
-    except Exception as ex:
-        print(ex)
 get_video()
